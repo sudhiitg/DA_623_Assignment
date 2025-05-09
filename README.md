@@ -19,14 +19,14 @@ This project demonstrates how to build and train a Convolutional Neural Network 
 
 ## 🧠 Model Architecture
 
-Input (32x32x3)
-→ Conv2D(32 filters, 3x3) + ReLU
-→ MaxPooling2D(2x2)
-→ Conv2D(64 filters, 3x3) + ReLU
-→ MaxPooling2D(2x2)
-→ Flatten
-→ Dense(512) + ReLU
-→ Dense(10) + Softmax
+-Input (32x32x3)
+-→ Conv2D(32 filters, 3x3) + ReLU
+-→ MaxPooling2D(2x2)
+-→ Conv2D(64 filters, 3x3) + ReLU
+-→ MaxPooling2D(2x2)
+-→ Flatten
+-→ Dense(512) + ReLU
+-→ Dense(10) + Softmax
 
 
 ## 🚀 Getting Started
