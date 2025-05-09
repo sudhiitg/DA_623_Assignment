@@ -17,6 +17,22 @@ This project demonstrates how to build and train a Convolutional Neural Network 
 - **Loss Function**: Categorical Crossentropy
 - **Evaluation Metric**: Accuracy
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- TensorFlow 2.x
+- NumPy
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/cifar10-cnn-tensorflow.git
+   cd cifar10-cnn-tensorflow
+   
 ## 🧠 Model Architecture
 ```text
 Input: (32x32x3)
@@ -36,19 +52,5 @@ Dense (512 units) + ReLU
 Dense (10 units) + Softmax
 
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-- Python 3.x
-- TensorFlow 2.x
-- NumPy
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/cifar10-cnn-tensorflow.git
-   cd cifar10-cnn-tensorflow
 
