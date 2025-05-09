@@ -18,7 +18,7 @@ This project demonstrates how to build and train a Convolutional Neural Network 
 - **Evaluation Metric**: Accuracy
 
 ## 🧠 Model Architecture
-
+```text
 Input: (32x32x3)
 ↓
 Conv2D (32 filters, 3x3) + ReLU
